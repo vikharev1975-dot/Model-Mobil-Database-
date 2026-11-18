@@ -47,6 +47,12 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбменСЦентральнойБазой</commonModules>
+  <exchangePlans>ExchangePlan.ОбменСМобильнымПриложением</exchangePlans>
+  <constants>Constant.АдресСервера</constants>
+  <constants>Constant.Логин</constants>
+  <constants>Constant.Пароль</constants>
+  <constants>Constant.ИдентификаторУстройства</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.Доставка</documents>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fa95e1a9-49ef-44aa-be42-340c8b3b0493" thisNode="9acabf06-95be-4467-9a72-2490e99c314b">
+  <producedTypes>
+    <objectType typeId="71ef8b00-16cd-4243-853a-569b654a44d1" valueTypeId="dc7f3985-b2b7-4dad-a7e9-8d9e783a75fb"/>
+    <refType typeId="a83a5a68-4f3e-445e-98e1-447be450c1a6" valueTypeId="214f9b59-8f61-4689-957c-ecd1b171a4a0"/>
+    <selectionType typeId="b708a258-f92e-4630-a8a9-c7822bd02f38" valueTypeId="05109496-d891-461b-8ae8-14b66a2faf04"/>
+    <listType typeId="61de1bab-abac-4c27-b411-f4c15cc45f05" valueTypeId="0b18ad87-842f-458e-8424-39d79143b900"/>
+    <managerType typeId="50330ba4-649f-42a6-ac69-0919228e9126" valueTypeId="f86dda5c-24e8-4f7d-94a8-04e02165441e"/>
+  </producedTypes>
+  <name>ОбменСМобильнымПриложением</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обмен с центральной базой</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>36</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <content>
+    <mdObject>Document.Доставка</mdObject>
+  </content>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>
