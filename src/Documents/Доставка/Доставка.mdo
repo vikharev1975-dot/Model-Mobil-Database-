@@ -64,6 +64,8 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.Доставка.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.Доставка.Form.ФормаСписка</defaultListForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="1696bb1d-6808-4328-a6a5-b8fd97793779">
@@ -146,6 +148,20 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="9155b205-c55b-4e20-b1d2-3d303876825d">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Доставка</value>
+    </synonym>
+  </forms>
+  <forms uuid="c502060f-438d-4a63-9057-c1217cc4f059">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Доставки</value>
+    </synonym>
+  </forms>
   <tabularSections uuid="f3348855-c60d-4744-a55e-d3a8fd1a95ab">
     <producedTypes>
       <objectType typeId="0951bc85-3524-43c6-9346-e19f91afc06c" valueTypeId="15a7b49e-e981-479b-b88e-efc73da7a5ca"/>
