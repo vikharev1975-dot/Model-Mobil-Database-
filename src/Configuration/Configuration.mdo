@@ -57,4 +57,5 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.Доставка</documents>
   <enums>Enum.СтатусыДоставок</enums>
+  <dataProcessors>DataProcessor.СинхронизацияДанных</dataProcessors>
 </mdclass:Configuration>

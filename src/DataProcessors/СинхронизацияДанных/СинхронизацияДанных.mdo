@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b01ca73-a0b1-4541-966b-95f75eb919a7">
+  <producedTypes>
+    <objectType typeId="3ae3d6eb-9154-460d-9fa6-fb9a85cd8aad" valueTypeId="55653905-6723-4b0c-9f52-92a2fd82f5a8"/>
+    <managerType typeId="d45656d9-13b2-4c21-9c40-5171b7063c48" valueTypeId="02920586-1982-4c87-9789-328fb90a5513"/>
+  </producedTypes>
+  <name>СинхронизацияДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Синхронизация данных</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.СинхронизацияДанных.Form.Форма</defaultForm>
+  <forms uuid="4a5cb6ec-7e36-4aeb-add4-0091ea8c2044">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Синхронизация данных</value>
+    </synonym>
+  </forms>
+</mdclass:DataProcessor>
